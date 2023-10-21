@@ -1,3 +1,7 @@
+## This is a script that will provide you with a CSV file of IAM policy information with a row for each policy with the columns 'Policy Name', 'PolicyId', and 'Arn'.
+
+
+
 ``` Python
 import csv
 import boto3
